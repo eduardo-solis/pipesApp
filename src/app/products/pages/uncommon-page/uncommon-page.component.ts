@@ -21,7 +21,7 @@ export class UncommonPageComponent {
   }
 
   // i18nPlural
-  public clients: string[] = ['Maria', 'Pedro', 'Eduardo', 'Sandra', 'Uriel',
+  public clients: string[] = ['Maria', 'Pedro', 'Eduardo', 'Sandra', 'Uriel', 'Ramon',
                               'Fernando', 'Paco', 'Natalia', 'Nohemi', 'Ulises'];
 
   public clientMap = {
